@@ -2,6 +2,7 @@
 - 👀 I’m interested in Tech and coding
 - 🌱 I’m currently learning Python
 - 📫 How to reach me abhijit.nair659@gmail.com
+- 🌐 https://abhijitez.vercel.app/
 
 <!---
 AbhijitEZ/AbhijitEZ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
