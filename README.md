@@ -2,7 +2,7 @@
 - 👀 I’m interested in Tech and coding
 - 📫 How to reach me abhijit.nair659@gmail.com
 - 🌐 https://abhijitez.vercel.app/
-- Blog -> https://abhijitez.github.io/blog/
+- Blog -> https://abhijitez.hashnode.dev/
 - Resume -> https://www.canva.com/design/DAE8ARM0K8U/qf6TnwdJEVna5t-20xB1yA/view?utm_content=DAE8ARM0K8U&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 <h3 align="left">Connect with me:</h3>
