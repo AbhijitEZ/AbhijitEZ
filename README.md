@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AbhijitEZ
 - 👀 I’m interested in Tech and coding
 - 📫 How to reach me abhijit.nair659@gmail.com
-- 🌐 https://aez-portfolio.vercel.app/ (Site in work progress)
+- 🌐 https://aez-portfolio.vercel.app/
 - Blog -> https://abhijitez.hashnode.dev/
 - Resume -> https://www.canva.com/design/DAE8ARM0K8U/qf6TnwdJEVna5t-20xB1yA/view?utm_content=DAE8ARM0K8U&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
