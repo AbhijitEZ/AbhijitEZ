@@ -3,6 +3,7 @@
 - 📫 How to reach me abhijit.nair659@gmail.com
 - 🌐 https://aez-portfolio.vercel.app/
 - Blog -> https://abhijitez.hashnode.dev/
+- Portfolio -> https://bolder-angora-7dd.notion.site/Portfolio-Projects-822f6df89c0e49d0af9edfd48d5a1c49?pvs=4
 - Resume -> https://www.canva.com/design/DAE8ARM0K8U/qf6TnwdJEVna5t-20xB1yA/view?utm_content=DAE8ARM0K8U&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 <h3 align="left">Connect with me:</h3>
