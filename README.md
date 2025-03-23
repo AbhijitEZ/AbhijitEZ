@@ -1,8 +1,7 @@
-👋 Hey, I'm @AbhijitEZ a Software engineer with relentless passion towards building products which would create significant impacts in the tech-industry and beyond.
+👋 Hey, I'm @AbhijitEZ, a dedicated Software Engineer with a keen passion for crafting impactful products that transform the tech industry and beyond.
 
 ## About Me
- Since childhood I loved computers and tech, now I'm getting paid for it ❤️.
- With a experience of 5+ years in the tech-industry, I was able to work with some of the most awesome companies and projects which not just enhanced by skills as software engineer but also uplifted towards overall domain.
+Since childhood, I've had a passion for computers and tech. Now, my hard work has paid off with a salary that makes me happy ❤️. With over 5 years of experience in the tech industry, I've had the privilege to work on some incredible projects with some of the best companies and individuals, which not only enhanced my skills as a software engineer but also helped me grow and develop my knowledge of various domains.
 
  Technical Skills ⚒️
  ---
